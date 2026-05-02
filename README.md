@@ -1,1 +1,1 @@
-Hacker Rank practices
+Hacker Rank SQL practices
